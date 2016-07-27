@@ -1,4 +1,4 @@
 # varlees.me
 Blog/Website
 
-Site URL: http://varlees.me
+Blog URL: http://varlees.me
